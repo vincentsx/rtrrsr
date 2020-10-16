@@ -32,8 +32,8 @@ Hi there, I'm **Vincents**
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I am currently a student;
-- 🌱 ....................; 
-- 🤔 My interests are photography and Linux;
+- 🌱 额额额...此处省略...; 
+- 🤔 My interests are photography&Linux&Embedded&C/C++;
 - 💼 I'm going to work soon;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via a376477035@gmail.com to reach me, or QQ : 376477035.
