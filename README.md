@@ -32,7 +32,6 @@ Hi there, I'm **Vincents**
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I am currently a student;
-- 🌱 额额额...此处省略...; 
 - 🤔 My interests are photography&Linux&Embedded&C/C++;
 - 💼 I'm going to work soon;
 - 💬 Ask me about anything, I am happy to help;
